@@ -1,0 +1,10 @@
+# ninja log v5
+27	1994	7551498224821399	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	64d8dc2219db41e7
+61	2025	7551498225098476	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1d16e4024d03f9e4
+19	2042	7551498225325602	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	98c516b7a53aac31
+73	2056	7551498225402655	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3627b8e60ab737ab
+90	2159	7551498226454520	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c3b6cb2684d4802c
+9	2246	7551498227339020	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	3e5b432f53cdae3
+43	2491	7551498229755302	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	36840cb02aa3c478
+0	2640	7551498231293902	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f79820220bca37f1
+2641	2850	7551498233474389	C:/Users/kuangyi_virtetic/Ghost Hunter/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/711j532g/obj/arm64-v8a/libgame.so	10b05c4d90fd619d
